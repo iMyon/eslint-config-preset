@@ -1,0 +1,29 @@
+{
+  "name": "@imyon/eslint-config-typescript",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "> TODO: description",
+  "author": "Myon <myon.cn@gmail.com>",
+  "homepage": "https://github.com/iMyon/eslint-config-preset#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMyon/eslint-config-preset.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iMyon/eslint-config-preset/issues"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.12",
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
+    "@typescript-eslint/parser": "^5.8.1",
+    "@imyon/eslint-config-basic": "^0.0.0",
+    "eslint-config-airbnb-typescript": "^16.1.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "@imyon/eslint-config-vue",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "> TODO: description",
+  "author": "Myon <myon.cn@gmail.com>",
+  "homepage": "https://github.com/iMyon/eslint-config-preset#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMyon/eslint-config-preset.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iMyon/eslint-config-preset/issues"
+  },
+  "devDependencies": {
+    "eslint-plugin-vue": "^8.2.0",
+    "vue-eslint-parser": "^8.0.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.12",
+    "@imyon/eslint-config-basic": "^0.0.0"
+  }
+}

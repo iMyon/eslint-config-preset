@@ -1,0 +1,25 @@
+{
+  "name": "@imyon/eslint-config-prettier",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Myon <myon.cn@gmail.com>",
+  "homepage": "https://github.com/iMyon/eslint-config-preset#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMyon/eslint-config-preset.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iMyon/eslint-config-preset/issues"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.12"
+  }
+}
