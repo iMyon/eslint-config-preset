@@ -1,6 +1,6 @@
 {
   "name": "@imyon/eslint-config-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.16.12",
-    "@imyon/eslint-config-basic": "^0.0.1"
-  }
+    "@imyon/eslint-config-basic": "^0.0.2"
+  },
+  "gitHead": "8fbba92849c04fd44f357691824d7243352cd0cf"
 }

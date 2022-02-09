@@ -1,6 +1,6 @@
 {
   "name": "@imyon/eslint-config-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Myon <myon.cn@gmail.com>",
   "homepage": "https://github.com/iMyon/eslint-config-preset#readme",
@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "@babel/core": "^7.16.12"
-  }
+  },
+  "gitHead": "8fbba92849c04fd44f357691824d7243352cd0cf"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@imyon/eslint-config-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -21,9 +21,10 @@
   },
   "dependencies": {
     "@babel/core": "^7.16.12",
-    "@imyon/eslint-config-basic": "^0.0.1",
+    "@imyon/eslint-config-basic": "^0.0.2",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "eslint-config-airbnb-typescript": "^16.1.0"
-  }
+  },
+  "gitHead": "8fbba92849c04fd44f357691824d7243352cd0cf"
 }
