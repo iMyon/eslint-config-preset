@@ -1,6 +1,6 @@
 {
   "name": "@imyon/eslint-config-preset",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -22,11 +22,11 @@
   "dependencies": {
     "@babel/core": "^7.16.12",
     "@babel/eslint-parser": "^7.16.5",
+    "@imyon/eslint-config-basic": "^0.0.1",
+    "@imyon/eslint-config-typescript": "^0.0.1",
+    "@imyon/eslint-config-vue": "^0.0.1",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
-    "@imyon/eslint-config-basic": "^0.0.0",
-    "@imyon/eslint-config-typescript": "^0.0.0",
-    "@imyon/eslint-config-vue": "^0.0.0",
     "eslint": "^7.14.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^16.1.0",
