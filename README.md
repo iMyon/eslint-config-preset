@@ -4,7 +4,7 @@ eslint preset
 ### Install
 
 ```shell
-npm i -D @imyon/eslint-config-preset
+npm i -D @imyon/eslint-config-preset @imyon/eslint-config-prettier
 ```
 
 ### Usage
@@ -15,4 +15,11 @@ npm i -D @imyon/eslint-config-preset
     "@imyon/eslint-config-preset"
   ]
 }
+```
+
+`.prettierrc.js`
+```js
+module.exports = {
+  ...require('@imyon/eslint-config-prettier'),
+};
 ```
