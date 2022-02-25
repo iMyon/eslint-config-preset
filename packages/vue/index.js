@@ -25,4 +25,7 @@ module.exports = {
   rules: {
     'vue/multi-word-component-names': 'off',
   },
+  env: {
+    'vue/setup-compiler-macros': true
+  }
 }
