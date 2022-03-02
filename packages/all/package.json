@@ -1,6 +1,6 @@
 {
   "name": "@imyon/eslint-config-preset",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publishConfig": {
     "access": "public"
   },
@@ -24,7 +24,7 @@
     "@babel/eslint-parser": "^7.16.5",
     "@imyon/eslint-config-basic": "^0.0.3",
     "@imyon/eslint-config-typescript": "^0.0.3",
-    "@imyon/eslint-config-vue": "^0.0.4",
+    "@imyon/eslint-config-vue": "^0.0.5",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "eslint": "^7.14.0",
