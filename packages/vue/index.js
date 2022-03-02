@@ -18,9 +18,9 @@ module.exports = {
     },
   ],
   extends: [
+    'plugin:vue/vue3-essential',
     '@imyon/eslint-config-typescript',
     '@imyon/eslint-config-basic',
-    'plugin:vue/vue3-essential',
   ],
   rules: {
     'vue/multi-word-component-names': 'off',

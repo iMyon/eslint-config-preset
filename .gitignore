@@ -1,6 +1,10 @@
 /.idea
 /*.iml
 
-/node_modules
+node_modules
 .bin
 /*.log
+
+yarn*.log
+
+pnpm-lock.yaml
